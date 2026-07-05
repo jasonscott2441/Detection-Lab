@@ -9,8 +9,11 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 
 -General network packet analyis
+
 -Identifying suspicious network activity
+
 -Pinpointing attacker IP Address
+
 -Identifying actions taken by an attacker 
 
 ###Tools Used
