@@ -8,6 +8,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 [Bullet Points]
 
+
 - General network packet analyis
 - Identifying suspicious network activity
 - Pinpointing attacker IP Address
